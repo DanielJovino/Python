@@ -1,0 +1,36 @@
+
+START - automation started - Sat Dec 25 2021 01:59:33 GMT-0300 (Hora oficial do Brasil)
+
+LIVE MODE - type done to quit
+ [RPA][STARTED]
+[RPA][0] - listening for inputs
+[RPA][1] - https://suporte.mundoopen.com.br/Account/Login
+[RPA][1] - listening for inputs
+[RPA][2] - exist_result = exist('//*[@id="select2-chosen-25"]').toString()
+[RPA][2] - listening for inputs
+[RPA][3] - dump exist_result to rpa_python.txt
+[RPA][3] - listening for inputs
+[RPA][4] - click //*[@id="select2-chosen-25"]
+[RPA][4] - listening for inputs
+[RPA][5] - exist_result = exist('//*[@id="ticket-sidebar"]/div[2]/div[8]/label').toString()
+[RPA][5] - listening for inputs
+[RPA][6] - dump exist_result to rpa_python.txt
+[RPA][6] - listening for inputs
+[RPA][7] - click //*[@id="ticket-sidebar"]/div[2]/div[8]/label
+[RPA][7] - listening for inputs
+[RPA][8] - exist_result = exist('//*[@id="ticket-sidebar"]/div[2]/div[8]/div/a/div[1]').toString()
+[RPA][8] - listening for inputs
+[RPA][9] - dump exist_result to rpa_python.txt
+[RPA][9] - listening for inputs
+[RPA][10] - click //*[@id="ticket-sidebar"]/div[2]/div[8]/div/a/div[1]
+[RPA][10] - listening for inputs
+[RPA][11] - exist_result = exist('//*[@id="select2-results-16"]').toString()
+[RPA][11] - listening for inputs
+[RPA][12] - dump exist_result to rpa_python.txt
+[RPA][12] - listening for inputs
+[RPA][13] - click //*[@id="select2-results-16"]
+[RPA][13] - listening for inputs
+[RPA][14] - exist_result = exist('//*[@id="select2-results-16"]/li[11]').toString()
+[RPA][14] - listening for inputs
+[RPA][15] - dump exist_result to rpa_python.txt
+[RPA][15] - listening for inputs
